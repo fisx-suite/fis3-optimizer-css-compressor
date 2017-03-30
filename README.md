@@ -6,9 +6,9 @@ fis3-optimizer-css-compressor
 
 > An optimizer for fis3 to compress css files by using clean-css. 
 
-**Notice:** The version 0.1.x using clean-css 3.x version, thus the latest version 0.2.x using clean-css 4.x version. 
+**Notice:** The version `0.1.x` using clean-css `3.x` version, thus the latest version `0.2.x` using clean-css `4.x` version. 
 
-The version 0.1.x has the following default config:
+The version `0.1.x` has the following default config:
 
 ```
 {
@@ -21,7 +21,7 @@ The version 0.1.x has the following default config:
 }
 ```
 
-The version 0.2.x has the following default config:
+The version `0.2.x` has the following default config:
 
 ```
 {
