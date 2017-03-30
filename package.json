@@ -1,6 +1,6 @@
 {
   "name": "fis3-optimizer-css-compressor",
-  "version": "0.1.1",
+  "version": "0.2.1",
   "description": "An optimizer for fis3 to compress css by using clean-css.",
   "main": "index.js",
   "scripts": {
